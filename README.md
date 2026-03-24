@@ -2,6 +2,11 @@
 
 Gerçek zamanlı uçuş takip uygulaması. Dünyadaki uçuşları harita üzerinde görüntülemek, uçuş detaylarını incelemek ve rotaları takip etmek için tasarlanmış modern ve interaktif bir web uygulamasıdır.
 
+## 📷 Ekran Görüntüsü
+
+![EkranKayd2026-03-2221 08 36-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/da785eea-5dd2-4f7e-af22-8abf3a587910)
+
+
 ## 🛠️ Kullanılan Teknolojiler
 
 - **React 19** - Modern UI geliştirme
